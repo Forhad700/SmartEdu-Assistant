@@ -6,7 +6,6 @@ SmartEdu Assistant GenAI is a Generative AI project developed as an AI-powered e
 - **AI Content Generation**: Generate detailed overviews on user-provided topics.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
 - **Real-Time Interaction**: Instant responses to user queries.
-- 
 ## Tech Stack
 - **Programming Language**: Python
 - **Frameworks**:
