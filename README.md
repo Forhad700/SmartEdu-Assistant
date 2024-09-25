@@ -10,15 +10,9 @@ SmartEdu Assistant GenAI is a Generative AI project developed as an AI-powered e
 ## Tech Stack
 - **Programming Language**: Python
 - **Frameworks**:
-  - [Streamlit](https://streamlit.io) for building interactive web applications.
-  - [Langchain](https://langchain.com) for managing prompts and workflows with language models.
+  - Streamlit for building interactive web applications.
+  - Langchain for managing prompts and workflows with language models.
 - **APIs**:
   - Google Generative AI (Gemini Pro model) for content generation and insights.
 - **Models**:
   - Gemini Pro from Google for advanced generative tasks.
-- **Environment Management**:
-  - `venv` for creating isolated Python environments.
-- **Version Control**:
-  - Git for source code management and collaboration.
-- **Deployment**:
-  - Streamlit Cloud for hosting the application.
